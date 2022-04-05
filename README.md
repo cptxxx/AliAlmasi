@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Ali Almasi
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python, C#, Java and HTML/CSS
+👋 Hi, I’m Ali Almasi  
+👀 I’m interested in Software Development  
+🌱 I’m currently learning Python, C#, JavaScript and HTML/CSS  
