@@ -26,9 +26,8 @@ ___
 ___
 ### 🐈‍⬛ Here's my Github Stats:
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=alialmasi&count_private=true&show_icons=true&include_all_commits=true&theme=blue-green)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alialmasi&hide=TeX&layout=compact&theme=blue-green)
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=alialmasi&count_private=true&show_icons=true&include_all_commits=true&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alialmasi&hide=TeX&layout=compact&theme=blue-green)  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alialmasi&right_color=darkgreen&left_color=darkblue)
 ___
 Have a nice day ✨  
