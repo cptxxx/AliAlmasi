@@ -1,6 +1,7 @@
 ## Hey There, How's it going? <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I'm **Ali Almasi**, 20 y.o. from Tehran. I'm a student. I'm Interested in Web Full-stack development and Software development.
+I'm **Ali Almasi**, 20 y.o. student from Tehran.  
+I'm Interested in Web Full-stack development and Software development.
 
 ## You can reach me at:
 
@@ -24,7 +25,7 @@ ___
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ___
-### 🐈‍⬛ Here's my Github Stats:
+### My Github Stats:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=alialmasi&count_private=true&show_icons=true&include_all_commits=true&theme=blue-green)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alialmasi&hide=TeX&layout=compact&theme=blue-green)
