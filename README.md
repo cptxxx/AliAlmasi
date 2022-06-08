@@ -20,7 +20,6 @@ ___
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![PHP](https://img.shields.io/badge/-PHP-b2b7ff?style=flat-square&logo=PHP&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-335b79?style=flat-square&logo=mysql&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ___
