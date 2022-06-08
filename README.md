@@ -1,7 +1,6 @@
 ## Hey There, How's it going? <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
 
-I'm **Ali Almasi**, 20 y.o. student from Tehran.  
-I'm Interested in Web Full-stack development and Software development.
+I'm **Ali Almasi** and I'm Interested in Full-stack development and Software development.
 
 ## You can reach me at:
 
