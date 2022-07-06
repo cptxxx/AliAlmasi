@@ -1,11 +1,9 @@
 ## Hey There, How's it going? <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
 
-I'm **Ali Almasi** and I'm Interested in Full-stack development and Software development.
+I'm Ali Almasi and I'm Interested in Web development and Software development.
 
 ## You can reach me at:
 
-[![Whatsapp Badge](https://img.shields.io/badge/-9306178128-lightgreen?style=flat&logo=whatsapp&logoColor=black&link=https://wa.me/+989306178128)](https://wa.me/+989306178128)
-[![Instagram Badge](https://img.shields.io/badge/-Al1Almasi-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/Al1Almasi/)](https://instagram.com/Al1Almasi)
 [![Telegram Badge](https://img.shields.io/badge/-Al1Almasi-2ca5e0?style=flat&logo=telegram&logoColor=white&link=https://www.t.me/al1almasi)](https://www.t.me/al1almasi)
 [![Twitter Badge](https://img.shields.io/badge/-AliAlmasi710-lightblue?style=flat&logo=twitter&logoColor=default&link=https://twitter.com/AliAlmasi710)](https://twitter.com/AliAlmasi710)
 [![Discord Badge](https://img.shields.io/badge/-A710Almasi-5662f6?style=flat&logo=Discord&logoColor=white&link=https://discordapp.com/users/852872226889924658)](https://discordapp.com/users/852872226889924658)
